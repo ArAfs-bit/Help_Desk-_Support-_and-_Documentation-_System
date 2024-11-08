@@ -20,7 +20,7 @@ The **Request New Software** form allows users to submit requests for software l
 
 ![Request Form Configuration](Screenshots/request_form_configuration.png)
 
-Updated Form
+- **Updated Form**:
 
 ![Request New Software Form](Screenshots/request_new_software_form1.png)
 
