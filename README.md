@@ -70,7 +70,7 @@ Automation rules streamline the Software Request Workflow by handling common act
 ### Dashboard and Reporting
 A custom dashboard was set up to monitor key support metrics, showing issue statistics, recent activity, and ticket distribution.
 
-![Dashboard Metrics](images/dashboard_metrics.png)
+![Dashboard Metrics](Screenshots/dashboard_metrics.png)
 
 ### Sample Issues
 Sample issues were created to test support and documentation workflows, each demonstrating the use of custom fields and workflows.
