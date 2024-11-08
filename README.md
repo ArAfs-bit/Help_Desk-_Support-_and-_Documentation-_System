@@ -76,7 +76,7 @@ A custom dashboard was set up to monitor key support metrics, showing issue stat
 3. **Attach Troubleshooting Guide** - Use Custom Fields for Troubleshooting Steps.
    ![Network Connectivity Issue](Screenshots/network_connectivity_issue.png)
 
-<!-- This section explains the project overview. Update it as needed. -->
+<!-- This section explains the project overview. Update it as needed.
 
 ### Request Types
 The project includes custom request types to organize and categorize support tasks:
@@ -86,4 +86,4 @@ The project includes custom request types to organize and categorize support tas
 - **Compliance Documentation**: For documenting policies or guidelines.
 
 ![Request Types](images/issue_types.png)
-<!-- This section explains the project overview. Update it as needed. -->
+ -->
