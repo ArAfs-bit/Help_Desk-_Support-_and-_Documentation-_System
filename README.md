@@ -58,7 +58,7 @@ A custom dashboard was set up to monitor key support metrics, showing issue stat
 ### Knowledge Base Integration with Confluence
 
 1. In Confluence, create a knowledge base with FAQ and troubleshooting guides.
-2. Link the Confluence space to the Jira project under **Project Settings > Knowledge Base**.
+2. Link the Confluence space to the Jira project by using **Knowledge Base** under **Project Settings**
 
    - **FAQ Example**: Answer common questions like Wi-Fi connection issues and password resets.
 
