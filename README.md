@@ -64,7 +64,7 @@ Automation rules streamline the Software Request Workflow by handling common act
 - **Auto-Close Completed or Rejected Requests**: Automatically closes requests after they’re marked as *Completed* or *Rejected* for 3 days.
 - **Send Notification on Approval Status Change**: Notifies relevant users when the approval status is updated.
 
-![Automation Rules](images/automation_rules.png)
+![Automation Rules](Screenshots/automation_rules.png)
 
 
 ### Dashboard and Reporting
