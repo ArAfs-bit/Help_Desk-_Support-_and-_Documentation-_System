@@ -47,15 +47,6 @@ The **Software Request Workflow** guides each request through stages from submis
 ![Software Request Workflow](Screenshots/workflow_statuses.png)
 
 
-
-### Custom Fields
-To better categorize and track support issues, custom fields were added:
-- **Priority Level**: Low, Medium, High, Critical
-- **Issue Category**: Hardware, Software, Network
-- **Resolution Type**: Temporary, Permanent
-
-![Custom Fields](images/custom_fields.png)
-
 ### Automation Rules
 Automation rules streamline the Software Request Workflow by handling common actions, such as assigning requests, moving requests to awaiting approval, and notifying users about status changes.
 
@@ -72,10 +63,6 @@ A custom dashboard was set up to monitor key support metrics, showing issue stat
 
 ![Dashboard Metrics](Screenshots/dashboard_metrics.png)
 
-### Sample Issues
-Sample issues were created to test support and documentation workflows, each demonstrating the use of custom fields and workflows.
-
-![Sample Issues](images/sample_issues.png)
 
 ### Knowledge Base Integration with Confluence
 
@@ -95,8 +82,7 @@ Sample issues were created to test support and documentation workflows, each dem
 
 1. **Create an Issue** - Log an issue such as "Network Connectivity Issue" in Jira.
 2. **Add Details** - Include impacted services, urgency, and a description of the problem.
-3. **Attach Troubleshooting Guide** - Link to the knowledge base articles directly within the issue to help resolve it faster.
-
+3. **Attach Troubleshooting Guide** - Use Custom Fields for Troubleshooting Steps.
    ![Network Connectivity Issue](Screenshots/network_connectivity_issue.png)
 
 
