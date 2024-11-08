@@ -44,7 +44,7 @@ The **Software Request Workflow** guides each request through stages from submis
 - **Rejected**: The request was denied.
 - **Completed**: The software has been provided, and the request is closed.
 
-![Software Request Workflow](images/software_request_workflow.png)
+![Software Request Workflow](Screenshots/software_request_workflow.png)
 
 
 
