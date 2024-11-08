@@ -18,10 +18,12 @@ The **Request New Software** form allows users to submit requests for software l
 - **Summary**: Brief description of the requested software and its intended purpose.
 - **Description**: Detailed explanation of the need for the software, including usage and impact.
 
-![Request New Software Form](images/request_new_software_form.png)
+![Request Form Configuration](Screenshots/request_form_configuration.png)
 
+Updated Form
 
-![Request Form Configuration](images/request_form_configuration.png)
+![Request New Software Form](Screenshots/request_new_software_form1.png)
+
 
 ### Request Types
 The project includes custom request types to organize and categorize support tasks:
