@@ -84,11 +84,11 @@ Sample issues were created to test support and documentation workflows, each dem
 
    - **FAQ Example**: Answer common questions like Wi-Fi connection issues and password resets.
 
-   ![FAQ Page in Confluence](images/confluence_faqs_page.png)
+   ![FAQ Page in Confluence](Screenshots/confluence_faqs_page.png)
 
    - **Troubleshooting Guide**: Link the guide in Jira issues for direct access.
 
-   ![Linked Knowledge Base in Jira](images/confluence_linked_to_jira.png)
+   ![Linked Knowledge Base in Jira](Screenshots/confluence_linked_to_jira.png)
 
 
    ## Sample Issue and Resolution Workflow
