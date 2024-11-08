@@ -97,7 +97,7 @@ Sample issues were created to test support and documentation workflows, each dem
 2. **Add Details** - Include impacted services, urgency, and a description of the problem.
 3. **Attach Troubleshooting Guide** - Link to the knowledge base articles directly within the issue to help resolve it faster.
 
-   ![Network Connectivity Issue](images/network_connectivity_issue.png)
+   ![Network Connectivity Issue](Screenshots/network_connectivity_issue.png)
 
 
 
