@@ -25,15 +25,6 @@ The **Request New Software** form allows users to submit requests for software l
 ![Request New Software Form](Screenshots/request_new_software_form1.png)
 
 
-### Request Types
-The project includes custom request types to organize and categorize support tasks:
-- **Support Request**: For general assistance requests from users.
-- **Troubleshooting Guide**: For documenting solutions to common issues.
-- **FAQ**: For frequently asked questions.
-- **Compliance Documentation**: For documenting policies or guidelines.
-
-![Request Types](images/issue_types.png)
-
 ### Workflow: Software Request
 The **Software Request Workflow** guides each request through stages from submission to completion. This helps track progress and ensures that all necessary approvals are obtained.
 
@@ -85,5 +76,14 @@ A custom dashboard was set up to monitor key support metrics, showing issue stat
 3. **Attach Troubleshooting Guide** - Use Custom Fields for Troubleshooting Steps.
    ![Network Connectivity Issue](Screenshots/network_connectivity_issue.png)
 
+<!-- This section explains the project overview. Update it as needed. -->
 
+### Request Types
+The project includes custom request types to organize and categorize support tasks:
+- **Support Request**: For general assistance requests from users.
+- **Troubleshooting Guide**: For documenting solutions to common issues.
+- **FAQ**: For frequently asked questions.
+- **Compliance Documentation**: For documenting policies or guidelines.
 
+![Request Types](images/issue_types.png)
+<!-- This section explains the project overview. Update it as needed. -->
