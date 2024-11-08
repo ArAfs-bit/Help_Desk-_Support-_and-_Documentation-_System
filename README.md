@@ -1,14 +1,14 @@
 # Help Desk Support System
 
 ## Overview
-This project simulates a help desk support system using Jira to manage support requests, troubleshooting documentation, and compliance guides. The project demonstrates key skills in configuring request types, workflows, automation, and dashboards to streamline IT support and improve system documentation.
+This project simulates a help desk support system using Jira and Confluence, to manage support requests, troubleshooting documentation, and compliance guides. The project demonstrates key skills in configuring request types, workflows, automation, and dashboards to streamline IT support and aimed at improving compliance and support efficiency.
 
 ## Project Setup in Jira
 
 ## Project Dashboard
 This is the initial setup for the Help Desk Support System in Jira's Service Project. Here, we organize support channels, request types, and board queues to streamline customer support processes.
 
-![Project Dashboard](images/project_dashboard.png)
+![Project Dashboard](Screenshots/project_dashboard.png)
 
 
 ### Custom Request Form: Request New Software
