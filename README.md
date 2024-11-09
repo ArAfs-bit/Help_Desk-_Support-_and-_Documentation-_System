@@ -1,7 +1,7 @@
 # Help Desk Support System
 
 ## Overview
-This project simulates a help desk support system using Jira and Confluence, to manage support requests, troubleshooting documentation, and compliance guides. The project demonstrates key skills in configuring request types, workflows, automation, and dashboards to streamline IT support and aimed at improving compliance and support efficiency.
+This project simulates a help desk support system using Jira and Confluence to manage support requests, troubleshooting documentation, and compliance guides. The project demonstrates key skills in configuring request types, workflows, automation, and dashboards to streamline IT support, aimed at improving compliance and support efficiency.
 
 ## Contents
 - [Project Setup in Jira](#project-setup-in-jira)
@@ -17,11 +17,10 @@ This project simulates a help desk support system using Jira and Confluence, to 
 
 ## Project Setup in Jira
 
-## Project Dashboard
+### Project Dashboard
 This is the initial setup for the Help Desk Support System in Jira's Service Project. Here, we organize support channels, request types, and board queues to streamline customer support processes.
 
 ![Project Dashboard](Screenshots/project_dashboard.png)
-
 
 ### Custom Request Form: Request New Software
 The **Request New Software** form allows users to submit requests for software licenses, providing essential details to ensure efficient processing.
@@ -36,7 +35,6 @@ The **Request New Software** form allows users to submit requests for software l
 
 ![Request New Software Form](Screenshots/request_new_software_form1.png)
 
-
 ### Workflow: Software Request
 The **Software Request Workflow** guides each request through stages from submission to completion. This helps track progress and ensures that all necessary approvals are obtained.
 
@@ -49,7 +47,6 @@ The **Software Request Workflow** guides each request through stages from submis
 
 ![Software Request Workflow](Screenshots/workflow_statuses.png)
 
-
 ### Automation Rules
 Automation rules streamline the Software Request Workflow by handling common actions, such as assigning requests, moving requests to awaiting approval, and notifying users about status changes.
 
@@ -60,17 +57,15 @@ Automation rules streamline the Software Request Workflow by handling common act
 
 ![Automation Rules](Screenshots/automation_rules.png)
 
-
 ### Dashboard and Reporting
 A custom dashboard was set up to monitor key support metrics, showing issue statistics, recent activity, and ticket distribution.
 
 ![Dashboard Metrics](Screenshots/dashboard_metrics.png)
 
-
-### Knowledge Base Integration with Confluence
+## Knowledge Base Integration with Confluence
 
 1. In Confluence, create a knowledge base with FAQ and troubleshooting guides.
-2. Link the Confluence space to the Jira project by using **Knowledge Base** under **Project Settings**
+2. Link the Confluence space to the Jira project by using **Knowledge Base** under **Project Settings**.
 
    - **FAQ Example**: Answer common questions like Wi-Fi connection issues and password resets.
 
@@ -80,15 +75,15 @@ A custom dashboard was set up to monitor key support metrics, showing issue stat
 
    ![Linked Knowledge Base in Jira](Screenshots/confluence_linked_to_jira.png)
 
-
-   ## Sample Issue and Resolution Workflow
+## Sample Issue and Resolution Workflow
 
 1. **Create an Issue** - Log an issue such as "Network Connectivity Issue" in Jira.
 2. **Add Details** - Include impacted services, urgency, and a description of the problem.
 3. **Attach Troubleshooting Guide** - Use Custom Fields for Troubleshooting Steps.
+
    ![Network Connectivity Issue](Screenshots/network_connectivity_issue.png)
 
-### Compliance Documentation
+## Compliance Documentation
 
 The **Compliance Documentation** page in Confluence provides guidelines for policies like:
 - **Security Policy**: Ensures secure handling of data and systems.
@@ -99,5 +94,4 @@ The **Compliance Documentation** page in Confluence provides guidelines for poli
 
 ## Conclusion
 This Help Desk Support System project illustrates the setup and management of an IT support desk using Jira and Confluence, focusing on structured request handling, automation, and documentation management. The system improves support efficiency, enhances compliance, and ensures the availability of critical information through an integrated knowledge base.
-
 
