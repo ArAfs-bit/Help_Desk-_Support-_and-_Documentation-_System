@@ -76,14 +76,12 @@ A custom dashboard was set up to monitor key support metrics, showing issue stat
 3. **Attach Troubleshooting Guide** - Use Custom Fields for Troubleshooting Steps.
    ![Network Connectivity Issue](Screenshots/network_connectivity_issue.png)
 
-<!-- This section explains the project overview. Update it as needed.
+### Compliance Documentation
 
-### Request Types
-The project includes custom request types to organize and categorize support tasks:
-- **Support Request**: For general assistance requests from users.
-- **Troubleshooting Guide**: For documenting solutions to common issues.
-- **FAQ**: For frequently asked questions.
-- **Compliance Documentation**: For documenting policies or guidelines.
+The **Compliance Documentation** page in Confluence provides guidelines for policies like:
+- **Security Policy**: Ensures secure handling of data and systems.
+- **Data Privacy Guidelines**: Covers best practices for data privacy.
+- **Software Usage Policy**: Outlines appropriate usage of software resources.
 
-![Request Types](images/issue_types.png)
- -->
+![Compliance Documentation in Confluence](Screenshots/compliance_documentation.png)
+
