@@ -3,6 +3,18 @@
 ## Overview
 This project simulates a help desk support system using Jira and Confluence, to manage support requests, troubleshooting documentation, and compliance guides. The project demonstrates key skills in configuring request types, workflows, automation, and dashboards to streamline IT support and aimed at improving compliance and support efficiency.
 
+## Contents
+- [Project Setup in Jira](#project-setup-in-jira)
+  - [Project Dashboard](#project-dashboard)
+  - [Custom Request Form: Request New Software](#custom-request-form-request-new-software)
+  - [Workflow: Software Request](#workflow-software-request)
+  - [Automation Rules](#automation-rules)
+  - [Dashboard and Reporting](#dashboard-and-reporting)
+- [Knowledge Base Integration with Confluence](#knowledge-base-integration-with-confluence)
+- [Sample Issue and Resolution Workflow](#sample-issue-and-resolution-workflow)
+- [Compliance Documentation](#compliance-documentation)
+- [Conclusion](#conclusion)
+
 ## Project Setup in Jira
 
 ## Project Dashboard
@@ -84,4 +96,8 @@ The **Compliance Documentation** page in Confluence provides guidelines for poli
 - **Software Usage Policy**: Outlines appropriate usage of software resources.
 
 ![Compliance Documentation in Confluence](Screenshots/compliance_documentation.png)
+
+## Conclusion
+This Help Desk Support System project illustrates the setup and management of an IT support desk using Jira and Confluence, focusing on structured request handling, automation, and documentation management. The system improves support efficiency, enhances compliance, and ensures the availability of critical information through an integrated knowledge base.
+
 
